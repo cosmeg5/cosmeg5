@@ -1,4 +1,6 @@
-### Hi there 👋
+
+<img src="https://github.com/cosmeg5/cosmeg5/blob/440908ee0fe3afa5edf0d25d102a932fcbdfa88f/WhatsApp%20Image%202020-08-08%20at%2021.02.13.jpeg" width="200">
+Hi there 👋
 
 - 🔭 I’m currently working on HTML, CSS, JS, PHP end REACT.
 - 🌱 I’m currently learning HTML, CSS, JS, PHP end REACT.
@@ -12,5 +14,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cosme-barbosa-984b18191/)](https://www.linkedin.com/in/cosme-barbosa-984b18191/)
 
 
-<img src="https://github.com/cosmeg5/cosmeg5/blob/440908ee0fe3afa5edf0d25d102a932fcbdfa88f/WhatsApp%20Image%202020-08-08%20at%2021.02.13.jpeg" width="200">
+
 
