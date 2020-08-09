@@ -12,5 +12,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cosme-barbosa-984b18191/)](https://www.linkedin.com/in/cosme-barbosa-984b18191/)
 
 
-
+![](WhatsApp Image 2020-08-08 at 21.02.13.jpeg)
 
