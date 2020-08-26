@@ -12,7 +12,7 @@ Hi there 👋
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cosme-barbosa-984b18191/)](https://www.linkedin.com/in/cosme-barbosa-984b18191/)
-
+<img src="https://www.pikpng.com/pngl/m/405-4050105_2d-sprite-sheet-pikachu-clipart.png" alt="2d Sprite Sheet Pikachu Clipart@pikpng.com">
 
 
 
