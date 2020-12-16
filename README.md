@@ -13,7 +13,8 @@ Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cosme-barbosa-984b18191/)](https://www.linkedin.com/in/cosme-barbosa-984b18191/)
  
- [! [Estatísticas do github de Anurag] (https://github-readme-stats.vercel.app/api ? Username = cosmeg5 )] (https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cosmeg5)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
