@@ -1,6 +1,8 @@
 
 <img src="https://github.com/cosmeg5/cosmeg5/blob/440908ee0fe3afa5edf0d25d102a932fcbdfa88f/WhatsApp%20Image%202020-08-08%20at%2021.02.13.jpeg" width="200">
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=cosmeg5&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmeg5&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 Hi there 👋
